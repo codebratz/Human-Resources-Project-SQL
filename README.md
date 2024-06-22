@@ -54,7 +54,7 @@ Ensure Data Integrity: Validate data integrity and consistency throughout the pr
 
 
 ## Findings from the Analysis
-•	The company employs a total of 22,214 individuals, with an average age of 35 years. There is a higher representation of male employees compared to females.  
+•	The company employs a total of 22,214 individuals, with an average age of 40 years. There is a higher representation of male employees compared to females.  
 
 •	White individuals constitute the majority racial group, while Native Hawaiian and American Indian individuals are the least represented.  
 
@@ -62,17 +62,11 @@ Ensure Data Integrity: Validate data integrity and consistency throughout the pr
 
 •	Employees were categorized into five age groups: 18-24, 25-34, 35-44, 45-54, and 55-64.   
 
-•	The largest proportion of employees falls within the 35-44 age group (4,997 employees), followed by the 25-34 age group (4,932), while the smallest group is 55-64 (1,021 employees).  
-
-•	The majority of employees (75%) work at the headquarters, with the remaining 25% working remotely.  
-
 •	The average length of employment for terminated employees is approximately 8 years.  
 
 •	Gender distribution across departments is relatively balanced, with a slightly higher proportion of male employees across all departments.   
 
 •	The Engineering department boasts the highest number of employees, while the Auditing department has the fewest.  
-
-•	The Auditing department (termination rate of 0.18) experiences the highest termination rate, followed by the Legal department (0.13). The Marketing department exhibits the lowest termination rate at 0.09.  
 
 •	A significant portion of employees originate from the state of Ohio.  
 
